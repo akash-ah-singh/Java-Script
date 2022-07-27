@@ -16,7 +16,7 @@ console.log(num1<=num2);
 
 
 
-// 6. == VS ===   (double equal VS triple equal)
+// 5. == VS ===   (double equal VS triple equal)
 
 let newNum1=7;
 let newNum2=7;
@@ -37,7 +37,7 @@ console.log(newNum3===newNum4);
 
 
 
-// 7. != VS !==  (not equal  VS  not double equal )
+// 6. != VS !==  (not equal  VS  not double equal )
 
 
 
@@ -45,8 +45,6 @@ let newNum5=7;
 let newNum6=7;
 
 console.log(newNum5!=newNum6);
-
-
 
 
 
