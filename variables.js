@@ -27,7 +27,6 @@ let firstName="Abhi";
 console.log(firstName);
 
 
-
 // const
 
 // const variable Should not be empty
