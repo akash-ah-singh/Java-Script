@@ -14,8 +14,6 @@ console.log(num1<num2);
 console.log(num1<=num2);
 
 
-
-
 // 5. == VS ===   (double equal VS triple equal)
 
 let newNum1=7;
